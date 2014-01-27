@@ -37,7 +37,15 @@ $(document).ready(function(){
 	});
 	$('#blog-logo').css({
 		'width':width/15,
-		'height':width/15
+		'height':width/13
+	});
+	$('#forum-logo').css({
+		'width':width/12,
+		'height':width/12
+	});
+	$('#resume-logo').css({
+		'width':width/15.5,
+		'height':width/15.5
 	});
 });
 
